@@ -1,0 +1,139 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Insert Estimated ReadingTime 1.2\n"
+"POT-Creation-Date: 2019-06-14 15:47+0900\n"
+"PO-Revision-Date: 2013-12-13 10:31+0900\n"
+"Last-Translator: nigauri <i18n@nigauri.me>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../insert-estimated-reading-time.php:104
+msgid ""
+"<p class=\"estimated-reading-time\">Estimated reading time: %min% minute(s)</p>"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:189
+msgid "Options saved."
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:207
+#: ../insert-estimated-reading-time.php:357
+msgid "Insert Estimated Reading Time Options"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:217
+msgid "Number of characters per minute:"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:226
+msgid "Format:"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:233
+msgid "<code>%min%</code> will replace minute(s)."
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:234
+msgid "<code>%sec%</code> will replace second(s)."
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:235
+msgid "<code>%num%</code> will replace Number of characters per minute."
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:238
+msgid "If you select \"Minutes\" in \"Time output\", please include \"%min%\"."
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:239
+msgid ""
+"If you select \"Minutes and seconds\" in \"Time output\", please include \"%min%"
+"\" and \"%sec%\"."
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:248
+msgid "Time output:"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:252
+msgid "Minutes"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:253
+msgid "Minutes and seconds"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:260
+msgid "Show in Home:"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:269
+msgid "Show in Front Page:"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:278
+msgid "Show in Post:"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:287
+msgid "Show in Page:"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:296
+msgid "Show in custom post types (available only when \"content\" exists):"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:310
+msgid "Shortcode"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:313
+msgid "Add <code>[estimated_reading_time]</code> to your post content."
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:314
+#: ../insert-estimated-reading-time.php:324
+msgid "Estimated reading time is displayed regardless of the state of checkbox."
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:320
+msgid "Tag"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:323
+msgid ""
+"Add <code>&lt;?php estimated_reading_time(); ?&gt;</code> to your theme/"
+"template."
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:331
+msgid "Save Changes"
+msgstr ""
+
+#: ../insert-estimated-reading-time.php:358
+msgid "Insert Estimated Reading Time"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.nigauri.me/tech/wordpress/plugin_insert_estimated_reading_time"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin inserts estimated reading time before contents."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "nigauri"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.nigauri.me/"
+msgstr ""

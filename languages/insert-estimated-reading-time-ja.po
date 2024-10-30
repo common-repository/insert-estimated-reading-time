@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Insert Estimated Reading Time 1.2\n"
+"POT-Creation-Date: 2019-06-14 15:47+0900\n"
+"PO-Revision-Date: 2019-06-14 16:13+0900\n"
+"Last-Translator: nigauri <i18n@nigauri.me>\n"
+"Language-Team: nigauri.me <i18n@nigauri.me>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../insert-estimated-reading-time.php:104
+msgid ""
+"<p class=\"estimated-reading-time\">Estimated reading time: %min% minute(s)</"
+"p>"
+msgstr ""
+"<p class=\"estimated-reading-time\">この記事を読むのに必要な時間は約 %min% 分"
+"です。</p>"
+
+#: ../insert-estimated-reading-time.php:189
+msgid "Options saved."
+msgstr "設定を保存しました。"
+
+#: ../insert-estimated-reading-time.php:207
+#: ../insert-estimated-reading-time.php:357
+msgid "Insert Estimated Reading Time Options"
+msgstr "Insert Estimated Reading Time 設定"
+
+#: ../insert-estimated-reading-time.php:217
+msgid "Number of characters per minute:"
+msgstr "一分間あたりの文字数:"
+
+#: ../insert-estimated-reading-time.php:226
+msgid "Format:"
+msgstr "フォーマット:"
+
+#: ../insert-estimated-reading-time.php:233
+msgid "<code>%min%</code> will replace minute(s)."
+msgstr "<code>%min%</code> は分に置き換わります。"
+
+#: ../insert-estimated-reading-time.php:234
+msgid "<code>%sec%</code> will replace second(s)."
+msgstr "<code>%sec%</code> は秒に置き換わります。"
+
+#: ../insert-estimated-reading-time.php:235
+msgid "<code>%num%</code> will replace Number of characters per minute."
+msgstr "<code>%num%</code> は一分間あたりの文字数に置き換わります。"
+
+#: ../insert-estimated-reading-time.php:238
+msgid "If you select \"Minutes\" in \"Time output\", please include \"%min%\"."
+msgstr "「時間出力」 で 「分」 を選択した場合は、「%min%」を含めてください。"
+
+#: ../insert-estimated-reading-time.php:239
+msgid ""
+"If you select \"Minutes and seconds\" in \"Time output\", please include "
+"\"%min%\" and \"%sec%\"."
+msgstr ""
+"「時間出力」 で 「分・秒」 を選択した場合は、「%min%」および「%sec%」を含めて"
+"ください。"
+
+#: ../insert-estimated-reading-time.php:248
+msgid "Time output:"
+msgstr "時間出力:"
+
+#: ../insert-estimated-reading-time.php:252
+msgid "Minutes"
+msgstr "分"
+
+#: ../insert-estimated-reading-time.php:253
+msgid "Minutes and seconds"
+msgstr "分・秒"
+
+#: ../insert-estimated-reading-time.php:260
+msgid "Show in Home:"
+msgstr "ホームで表示する:"
+
+#: ../insert-estimated-reading-time.php:269
+msgid "Show in Front Page:"
+msgstr "フロントページで表示する:"
+
+#: ../insert-estimated-reading-time.php:278
+msgid "Show in Post:"
+msgstr "投稿で表示する:"
+
+#: ../insert-estimated-reading-time.php:287
+msgid "Show in Page:"
+msgstr "固定ページで表示する:"
+
+#: ../insert-estimated-reading-time.php:296
+msgid "Show in custom post types (available only when \"content\" exists):"
+msgstr "カスタム投稿タイプで表示する（\"content\" が存在する場合のみ有効）:"
+
+#: ../insert-estimated-reading-time.php:310
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: ../insert-estimated-reading-time.php:313
+msgid "Add <code>[estimated_reading_time]</code> to your post content."
+msgstr "<code>[estimated_reading_time]</code> を投稿記事に追加してください。"
+
+#: ../insert-estimated-reading-time.php:314
+#: ../insert-estimated-reading-time.php:324
+msgid ""
+"Estimated reading time is displayed regardless of the state of checkbox."
+msgstr "チェックボックスの状態にかかわらず表示されます。"
+
+#: ../insert-estimated-reading-time.php:320
+msgid "Tag"
+msgstr "タグ"
+
+#: ../insert-estimated-reading-time.php:323
+msgid ""
+"Add <code>&lt;?php estimated_reading_time(); ?&gt;</code> to your theme/"
+"template."
+msgstr ""
+"<code>&lt;?php estimated_reading_time(); ?&gt;</code> をテーマ/テンプレートに"
+"追加してください。"
+
+#: ../insert-estimated-reading-time.php:331
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: ../insert-estimated-reading-time.php:358
+msgid "Insert Estimated Reading Time"
+msgstr "Insert Estimated Reading Time"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.nigauri.me/tech/wordpress/plugin_insert_estimated_reading_time"
+msgstr ""
+"https://www.nigauri.me/tech/wordpress/plugin_insert_estimated_reading_time"
+
+#. Description of the plugin/theme
+msgid "This plugin inserts estimated reading time before contents."
+msgstr "「この記事を読むのに必要な時間」を記事の前に挿入します。"
+
+#. Author of the plugin/theme
+msgid "nigauri"
+msgstr "nigauri"
+
+#. Author URI of the plugin/theme
+msgid "https://www.nigauri.me/"
+msgstr "https://www.nigauri.me/"
+
+#~ msgid "Show in custom post types:"
+#~ msgstr "カスタム投稿タイプで表示する :"
